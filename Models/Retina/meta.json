@@ -1,0 +1,10 @@
+{
+  "threshold": 0.7307,
+  "label_positive_desc": "Diabetic Retina (DR)",
+  "label_negative_desc": "Not DR",
+  "img_size": [
+    224,
+    224
+  ],
+  "base_model": "efficientnet_b0"
+}
